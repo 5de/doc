@@ -1,3 +1,3 @@
 # 5de design
 
-See [wiki](wiki).
+See [wiki](/wiki).
