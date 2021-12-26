@@ -1,3 +1,3 @@
-# 5de design
+# 5de project documentation
 
-See [wiki](https://github.com/5de/design/wiki).
+See [wiki](https://github.com/5de/doc/wiki).
